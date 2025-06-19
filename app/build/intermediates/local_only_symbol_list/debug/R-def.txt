@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_foreground
+id action_logout
+id btnAdd
+id btnCreatePlainUser
+id btnCreateUser
+id btnDelete
+id btnEdit
+id btnLogin
+id editEmail
+id editNome
+id editReps
+id editSenha
+id editSeries
+id exerciseList
+id progressBar
+id textExercise
+layout activity_login
+layout activity_main
+layout item_exercise
+menu main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ProjetoNarak
